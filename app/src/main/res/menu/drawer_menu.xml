@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single"
+        >
+        <item android:id="@+id/nav_popular"
+              android:title="@string/popular"/>
+        <item android:id="@+id/nav_new"
+              android:title="@string/novas"/>
+    </group>
+    <item android:title="@string/tSkin">
+        <menu android:checkableBehavior="single">
+            <item android:id="@+id/nav_S_id"
+                android:title="@string/byid">
+            </item>
+        </menu>
+    </item>
+    <item android:title="@string/tPlayer">
+        <menu android:checkableBehavior="single">
+            <item android:id="@+id/nav_P_idPerfil"
+                android:title="@string/byidPerfil">
+            </item>
+            <item android:id="@+id/nav_P_idComunidade"
+                android:title="@string/byidComunidade">
+            </item>
+        </menu>
+    </item>
+
+</menu>

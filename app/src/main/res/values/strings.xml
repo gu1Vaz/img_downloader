@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Skin Downloader</string>
+    <string name="app_name2">Skin Downloader</string>
+    <string name="all">All</string>
+
+    //nav titles
+    <string name="tCLa">Clã</string>
+    <string name="tPlayer">Player</string>
+    <string name="tSkin">Skin</string>
+    //nav
+    <string name="popular">Populares</string>
+    <string name="novas">Novas</string>
+    <string name="byid">Buscar Skin</string>
+    <string name="byidPerfil">Buscar Skin de Perfil</string>
+    <string name="byidComunidade">Buscar Comunidade Skins</string>
+    <string name="by">By None Gui</string>
+    <string name="hint_vazio" >Id</string>
+    //error
+    <string name="notFound" >"Player não encontrado,ou sem skin no perfil "</string>
+    <string name="notFound2" >"Player não encontrado,ou não possui comunidade"</string>
+
+    //info
+    <string name="info_perfil">Digite o id do player e encontre sua skin de perfil</string>
+    <string name="info_comunidade">Digite o id do player e encontre suas skins da comunidade</string>
+    <string name="info_skin">Digite o id da skin</string>
+
+    //update
+    <string name="up">Boas notícias, uma nova versão esta disponivel…\n\nAtualize o app para continuar\n\n:)</string>
+    <string name="up2">Update</string>
+
+    //dados
+    <string name="dados_id">Id:</string>
+    <string name="dados_iduser">Uploader Id:</string>
+    <string name="dados_pcount">Compras:</string>
+    <string name="down">Download</string>
+</resources>

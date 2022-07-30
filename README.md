@@ -1,4 +1,5 @@
 # Image/Skin Downloader
+**[code in branch master]**]
 
 A simple app to download images
 
@@ -17,7 +18,5 @@ Resources:
 :)
 
 Available on playstore, link: https://play.google.com/store/apps/details?id=zorya.software.skindownloader
-
-**[code in branch master]**
 
 Created by **Guilherme Vaz**, aka **zorya** or **none gui**.

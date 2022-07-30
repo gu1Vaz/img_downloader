@@ -20,4 +20,4 @@ Available on playstore, link: https://play.google.com/store/apps/details?id=zory
 
 **[code in branch master]**
 
-Created by Guilherme Vaz, aka zorya.
+Created by Guilherme Vaz, aka zorya, none gui.

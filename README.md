@@ -3,7 +3,7 @@
 
 A simple app to download images
 
-Developed in Java
+**Developed in Java**
 
 Resources:
 

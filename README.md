@@ -3,6 +3,8 @@
 
 A simple app to download images
 
+Developed in Java
+
 Resources:
 
 -Find relevant images from the community

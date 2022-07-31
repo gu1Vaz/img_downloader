@@ -1,9 +1,7 @@
 # Image/Skin Downloader
 **[code in branch master]**]
 
-A simple app to download images
-
-**Developed in Java**
+A simple app developed in Java to download images
 
 Resources:
 

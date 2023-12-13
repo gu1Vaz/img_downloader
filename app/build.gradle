@@ -10,7 +10,7 @@ android {
         applicationId 'zorya.software.skindownloader'
         minSdkVersion 23
         targetSdkVersion 30
-        versionCode 7
+        versionCode 8
         versionName 'Milenar'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
